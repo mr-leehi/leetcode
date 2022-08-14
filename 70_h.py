@@ -22,3 +22,5 @@ class Solution(object):
                 n_ways += binom(n-i, i)
                 i += 1
             return n_ways+2
+
+            
